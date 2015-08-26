@@ -2,7 +2,7 @@ To configure and install Bluethoot devices (like Apple Keyboard) in Ubuntu, firs
 
     sudo apt-get install bluez python-gobject python-dbus
 
-Then set keyboard discoverablea
+Then set keyboard discoverable
 
 Get the mac address of the bluetooth device
 
